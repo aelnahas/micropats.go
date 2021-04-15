@@ -1,2 +1,3 @@
 # micropats.go
-some microservice and distribute system pattern implementations in golang
+This repo contains implementations of different distributed system solutions and patterns with golang. Mostly for educational purposes
+
